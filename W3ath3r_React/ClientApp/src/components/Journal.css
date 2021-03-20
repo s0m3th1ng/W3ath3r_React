@@ -1,0 +1,25 @@
+﻿#journal {
+    padding-left: 2rem;
+}
+
+.journalBlock, .journalBlockFading {
+    margin-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+    border-bottom: 3px solid #1b6ec2;
+    border-left: 3px solid #1b6ec2;
+}
+
+.journalBlock {
+    background-color: #fff;
+    transition: all 0.6s linear;
+}
+
+.journalBlock > p, .journalBlockFading > p {
+    margin-bottom: 0.2rem;
+}
+
+.journalBlockFading {
+    background-color: #d7e9ff;
+    /*transition: all 0.7s linear;*/
+}

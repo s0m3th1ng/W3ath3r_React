@@ -1,0 +1,17 @@
+﻿.formDiv > * {
+    margin: 10px;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
+
+button:active {
+    background-color: #1b6ec2 !important;
+}
+
+.timestamp {
+    font-size: 13px;
+    background-color: #d7e9ff;
+    text-align: right;
+}

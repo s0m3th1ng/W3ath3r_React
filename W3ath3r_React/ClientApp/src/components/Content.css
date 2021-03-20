@@ -1,0 +1,9 @@
+﻿#content {
+    margin: 1.5rem 10px;
+    padding: 0.5rem;
+    border: 0 solid #1b6ec2;
+}
+
+#content > p {
+    font-size: 26px;
+}
