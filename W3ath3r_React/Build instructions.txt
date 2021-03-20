@@ -1,0 +1,9 @@
+source code: https://github.com/s0m3th1ng/W3ath3r_React
+
+
+1. 1st option: Download archive with source code from url above and extract it. Then open the project in Visual Studio or any other preferable IDE
+   2nd option: Open Visual Studio or any other preferable IDE, then clone repository from url above using VCS.
+
+2. Configure project for .NET 5.0 as a target framework
+
+3. Run project and go to https://localhost:5001/ (if it did not happen automaticaly)
